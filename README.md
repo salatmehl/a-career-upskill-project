@@ -1,5 +1,5 @@
 # a-career-upskill-project
-This is a webpage I use to practice AB testing setting different variants in Google Optimize.
+This is a webpage I use to practice AB testing setting up different variants in Google Optimize.
 
 Hi again!
 
